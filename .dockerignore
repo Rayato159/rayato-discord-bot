@@ -1,0 +1,10 @@
+.git
+.gitignore
+
+README.md
+LINCENSE
+
+*_test.gitignore
+.air*
+
+*.txt
